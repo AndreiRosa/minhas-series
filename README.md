@@ -12,8 +12,6 @@ Minhas Séries
 Obs: O servidor vem da <a href="https://github.com/tuliofaria/minhas-series-server">API</a>. 
 <br>
 
-<br> Você pode acessar o site por meio do <a href='https://minhasseries.netlify.app/'>link</a>.
-
 
 💬 Fale comigo
 ------------------
